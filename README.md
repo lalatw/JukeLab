@@ -1,5 +1,5 @@
 # JukeLab
-https://aehaq.github.io/JukeLab/
+https://lalatw.github.io/JukeLab/.
 
 # About JukeLab
 Hosting a party and looking for the perfect playlist? If you want tunes that satisfy all your friends, open up JukeLab and you and your friends can create a collaborative dynamic playlist for your get together! With JukeLab you can add songs from any browser, whether it’s on your phone or at your desktop. 
